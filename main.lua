@@ -1,1 +1,1 @@
-
+print("SCRIPT LOADED OK")
